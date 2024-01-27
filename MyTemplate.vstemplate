@@ -1,0 +1,53 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Manzaneque Limited</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Manzaneque Limited</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Manzaneque Limited.csproj" File="Manzaneque Limited.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="Computer.aspx">Computer.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Computer.aspx.cs">Computer.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Computer.aspx.designer.cs">Computer.aspx.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="dashpord.aspx">dashpord.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="dashpord.aspx.cs">dashpord.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="dashpord.aspx.designer.cs">dashpord.aspx.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Department.aspx">Department.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Department.aspx.cs">Department.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Department.aspx.designer.cs">Department.aspx.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Employee.aspx">Employee.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Employee.aspx.cs">Employee.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Employee.aspx.designer.cs">Employee.aspx.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Equipment.aspx">Equipment.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Equipment.aspx.cs">Equipment.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Equipment.aspx.designer.cs">Equipment.aspx.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Help_disck.aspx">Help_disck.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Help_disck.aspx.cs">Help_disck.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Help_disck.aspx.designer.cs">Help_disck.aspx.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="JavaScript.js">JavaScript.js</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="packages.config">packages.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Problems.aspx">Problems.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Problems.aspx.cs">Problems.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Problems.aspx.designer.cs">Problems.aspx.designer.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Specialist.aspx">Specialist.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Specialist.aspx.cs">Specialist.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Specialist.aspx.designer.cs">Specialist.aspx.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="style.css">style.css</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Web.config">Web.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Web.Debug.config">Web.Debug.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Web.Release.config">Web.Release.config</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
